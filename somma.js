@@ -2,17 +2,18 @@
 
 function somma (a,b) 
 {
-    somma = a + b;
-    console.log(somma);
+    risultato= a + b;
+    console.log(risultato);
 }
 
-const x = function somma1 (a, b)
+const x = function (a, b)
 {
     somma1 = a + b;
     console.log(somma1);
 }
 
-const y = (a,b) => {
+const y = (a,b) => 
+{
     somma2 = a + b;
     console.log(somma2);
-                   }
+}
