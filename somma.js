@@ -1,6 +1,6 @@
 'use strict';
 
-function somma(a,b) 
+function somma (a,b) 
 {
     somma = a + b;
     console.log(somma);
